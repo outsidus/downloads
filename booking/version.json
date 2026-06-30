@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.19",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.19.apk",
-  "notes": "새 버전"
+  "versionCode": 22,
+  "versionName": "1.0.21",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.21.apk",
+  "notes": "로그 메일 [기기이름], 종료후 아파트너 처리 설정, 직접선택 제거"
 }
