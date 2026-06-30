@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.0.26",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.26.apk",
-  "notes": "v1.0.26 (code 27)"
+  "versionCode": 28,
+  "versionName": "1.0.27",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.27.apk",
+  "notes": "설정 그룹화·숫자입력·4단계 스크롤·터치 인디케이터 이름·터치 리스트 조회"
 }
