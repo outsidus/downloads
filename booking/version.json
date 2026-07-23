@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.0.28",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.28.apk",
-  "notes": "로그 글자크기 조절·맨아래 이동, 등록 완료 후 절전(WakeLock) 복구"
+  "versionCode": 30,
+  "versionName": "1.0.29",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.29.apk",
+  "notes": "빠른 진행(터보) 모드 + 정각 0.1초 전 진입 + 팝업 폴링 가속"
 }
