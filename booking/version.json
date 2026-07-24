@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "1.0.29",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.29.apk",
-  "notes": "빠른 진행(터보) 모드 + 정각 0.1초 전 진입 + 팝업 폴링 가속"
+  "versionCode": 31,
+  "versionName": "1.0.30",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.30.apk",
+  "notes": "터보: 대기자등록/타임 텍스트검색 생략, 확인/닫기 팝업 감지 경량화"
 }
