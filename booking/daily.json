@@ -1,0 +1,14 @@
+{
+  "_comment": "BookingApt 일별 운영 설정. 앱이 시작 시 + 매일 1회 받아 적용. 모든 필드 선택적.",
+  "_fields": {
+    "dayTypeOverrides": "특정 날짜 운영 타입 지정. 'YYYY-MM-DD:타입' 쉼표 구분. 타입 0=평일 1=휴일 2=휴관(예약안함) 3=특별휴일",
+    "skipDates": "예약하지 않을 날짜(휴관 처리). 여행 등. 예: [\"2026-08-10\",\"2026-08-11\"]",
+    "weekdayStartHour": "평일 운영 시작 정각(시)",
+    "holidayStartHour": "휴일 운영 시작 정각(시)",
+    "specialHolidayStartHour": "특별휴일 운영 시작 정각(시)",
+    "notes": "로그에 남길 메모"
+  },
+  "dayTypeOverrides": "",
+  "skipDates": [],
+  "notes": "기본값 (변경 없음)"
+}
