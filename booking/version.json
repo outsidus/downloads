@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "1.0.34",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.34.apk",
-  "notes": "원격 일별 설정 동기화(daily.json) + 여행 skip 날짜 + 업데이트 알림"
+  "versionCode": 36,
+  "versionName": "1.0.35",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.35.apk",
+  "notes": "요일/특정일 좌석·타임 우선순위 오버라이드(앱 편집 UI + daily.json)"
 }

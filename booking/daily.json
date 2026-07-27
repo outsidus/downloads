@@ -1,14 +1,26 @@
 {
-  "_comment": "BookingApt 일별 운영 설정. 앱이 시작 시 + 매일 1회 받아 적용. 모든 필드 선택적.",
+  "_comment": "BookingApt 일별 운영 설정. 앱 시작 시 + 매일 1회 받아 적용. 아래 키를 넣으면 서버가 그 항목을 제어(로컬 설정 덮어씀). 키를 빼면 로컬 설정 유지.",
   "_fields": {
-    "dayTypeOverrides": "특정 날짜 운영 타입 지정. 'YYYY-MM-DD:타입' 쉼표 구분. 타입 0=평일 1=휴일 2=휴관(예약안함) 3=특별휴일",
+    "dayTypeOverrides": "특정 날짜 운영 타입. 'YYYY-MM-DD:타입' 쉼표 구분. 타입 0=평일 1=휴일 2=휴관(예약안함) 3=특별휴일. (skipDates 와 합쳐 day_type_overrides 를 통째로 갱신)",
     "skipDates": "예약하지 않을 날짜(휴관 처리). 여행 등. 예: [\"2026-08-10\",\"2026-08-11\"]",
     "weekdayStartHour": "평일 운영 시작 정각(시)",
     "holidayStartHour": "휴일 운영 시작 정각(시)",
     "specialHolidayStartHour": "특별휴일 운영 시작 정각(시)",
+    "priorityOverrides": "요일/특정일 좌석·타임 우선순위 오버라이드(통째로 갱신). { weekday:{'0'~'6':profile}, date:{'YYYY-MM-DD':profile} }, profile={slot1,slot2,time1,time2,mode,startHour}",
     "notes": "로그에 남길 메모"
   },
-  "dayTypeOverrides": "",
-  "skipDates": [],
-  "notes": "기본값 (변경 없음)"
+  "_example": {
+    "skipDates": ["2026-08-10", "2026-08-11"],
+    "priorityOverrides": {
+      "weekday": {
+        "6": { "time1": "07,08,09,10", "mode": "time" },
+        "0": { "time1": "08,09,10,11" }
+      },
+      "date": {
+        "2026-09-05": { "slot1": "5,6,7", "startHour": "7" }
+      }
+    },
+    "notes": "예시 — 실제 적용하려면 _example 밖 최상위에 키를 두세요."
+  },
+  "notes": "기본값 (서버 제어 항목 없음 — 로컬 설정 그대로 사용)"
 }
