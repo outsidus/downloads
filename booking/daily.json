@@ -7,9 +7,11 @@
     "holidayStartHour": "휴일 운영 시작 정각(시)",
     "specialHolidayStartHour": "특별휴일 운영 시작 정각(시)",
     "priorityOverrides": "요일/특정일 좌석·타임 우선순위 오버라이드(통째로 갱신). { weekday:{'0'~'6':profile}, date:{'YYYY-MM-DD':profile} }, profile={slot1,slot2,time1,time2,mode,startHour}",
+    "devices": "기기별 부킹 on/off. { '이름 또는 UUID': { booking: true|false } }. 목록에 없는 기기는 기본 허용. 앱 설정 화면에서 이름/UUID 확인",
     "notes": "로그에 남길 메모"
   },
   "_example": {
+    "devices": { "melvin-S26": { "booking": false } },
     "skipDates": ["2026-08-10", "2026-08-11"],
     "priorityOverrides": {
       "weekday": {

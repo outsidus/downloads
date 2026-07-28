@@ -16,6 +16,10 @@
   <div class="small">설치 후 <b>접근성 서비스</b>·<b>다른 앱 위에 표시</b> 권한을 켜주세요.<br>
    앱 안 <b>업데이트 확인</b> 버튼으로 자동 업데이트도 됩니다.</div>
  </div>
+ <div class="card">
+  <a class="btn" style="background:#2563eb" href="config.html">⚙️ 원격 설정 (daily.json)</a>
+  <div class="small">기기별 부킹 on/off · 여행 skip 날짜 · 요일/특정일 우선순위를 웹에서 편집.</div>
+ </div>
  <script>
   fetch('version.json?_='+Date.now()).then(r=>r.json()).then(v=>{
    document.getElementById('ver').textContent='v'+v.versionName+' (#'+v.versionCode+')';

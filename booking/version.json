@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.35",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.35.apk",
-  "notes": "요일/특정일 좌석·타임 우선순위 오버라이드(앱 편집 UI + daily.json)"
+  "versionCode": 37,
+  "versionName": "1.0.36",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.36.apk",
+  "notes": "기기별 부킹 on/off(서버 devices) + 웹 설정 페이지(config.html)"
 }
