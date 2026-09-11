@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.0.36",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.36.apk",
-  "notes": "기기별 부킹 on/off(서버 devices) + 웹 설정 페이지(config.html)"
+  "versionCode": 38,
+  "versionName": "1.0.37",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.37.apk",
+  "notes": "타임슬롯 좌표: 맨아래 스크롤 시 바닥(endHour) 기준 역산으로 수정(앞시간 오탭 방지) + 오버레이 일치"
 }
