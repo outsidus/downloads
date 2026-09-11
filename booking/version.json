@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.0.37",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.37.apk",
-  "notes": "타임슬롯 좌표: 맨아래 스크롤 시 바닥(endHour) 기준 역산으로 수정(앞시간 오탭 방지) + 오버레이 일치"
+  "versionCode": 39,
+  "versionName": "1.0.38",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.38.apk",
+  "notes": "예약 결과 서버 전송(성공/실패 → Apps Script → 시트+메일, 기기명 포함)"
 }
