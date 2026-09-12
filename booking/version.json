@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "1.0.45",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.45.apk",
-  "notes": "시작시각 설정 기본 숨김(옵션 '시작시각 직접 설정' 켤 때만 표시) + 일요일 별도 시작시각"
+  "versionCode": 47,
+  "versionName": "1.0.46",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.46.apk",
+  "notes": "단말 로그인 계정 설정 + 서버 단말 목록에 계정 표시"
 }
