@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "1.0.42",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.42.apk",
-  "notes": "일요일 타석·타임 슬롯 별도 + 서버 키 자동발급(enrollment) + 단말별 skipDates + 단말 업로드 분리"
+  "versionCode": 44,
+  "versionName": "1.0.43",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.43.apk",
+  "notes": "대시보드 단말 편집기 폼화 + 결과 달력 단말별 필터 + WiFi SSID 위치권한"
 }
