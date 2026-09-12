@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "1.0.46",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.46.apk",
-  "notes": "단말 로그인 계정 설정 + 서버 단말 목록에 계정 표시"
+  "versionCode": 48,
+  "versionName": "1.0.47",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.47.apk",
+  "notes": "설정 저장 시 서버에 즉시 재보고(계정/스케줄 변경 반영)"
 }
