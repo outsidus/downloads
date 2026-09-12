@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.0.44",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.44.apk",
-  "notes": "오전 타임슬롯 시작시각(코스 고정 6/8/10) 분리 + 폰 등록 이름(Galaxy S26 등) 표시 + 단말목록 접기/자세히"
+  "versionCode": 46,
+  "versionName": "1.0.45",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.45.apk",
+  "notes": "시작시각 설정 기본 숨김(옵션 '시작시각 직접 설정' 켤 때만 표시) + 일요일 별도 시작시각"
 }
