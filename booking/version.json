@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "1.0.39",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.39.apk",
-  "notes": "자체 서버 연동: config/결과를 goto.tplinkdns.com:8083 으로 전환(서버 키·단말 id 첨부, cleartext 허용)"
+  "versionCode": 41,
+  "versionName": "1.0.40",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.40.apk",
+  "notes": "일요일 시작시각 별도 옵션(기본 토·일 동일) + Makefile server-deploy/app-deploy"
 }
