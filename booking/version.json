@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.0.43",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.43.apk",
-  "notes": "대시보드 단말 편집기 폼화 + 결과 달력 단말별 필터 + WiFi SSID 위치권한"
+  "versionCode": 45,
+  "versionName": "1.0.44",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.44.apk",
+  "notes": "오전 타임슬롯 시작시각(코스 고정 6/8/10) 분리 + 폰 등록 이름(Galaxy S26 등) 표시 + 단말목록 접기/자세히"
 }
