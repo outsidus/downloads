@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "1.0.40",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.40.apk",
-  "notes": "일요일 시작시각 별도 옵션(기본 토·일 동일) + Makefile server-deploy/app-deploy"
+  "versionCode": 42,
+  "versionName": "1.0.41",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.41.apk",
+  "notes": "단말 상태 서버 등록(스케줄+앱/OS/WiFi) + 서버 설정 푸시(즉시/자정 적용) + 대시보드 단말 관리"
 }
