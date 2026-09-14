@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "1.0.48",
-  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.48.apk",
-  "notes": "시도 내역에 계정+단말 친화이름 표시 + 대시보드 공유키 자동저장"
+  "versionCode": 50,
+  "versionName": "1.0.49",
+  "apkUrl": "https://raw.githubusercontent.com/outsidus/downloads/main/booking/bookingapt-1.0.49.apk",
+  "notes": "커뮤니티시설 찾기 모드(텍스트우선/좌표전용) + 좌표% 서버·앱 설정"
 }
